@@ -1,0 +1,6 @@
+/env/
+node_modules/
+.idea/
+.env
+*.log
+.python-version
