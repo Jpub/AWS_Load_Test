@@ -1,7 +1,7 @@
   
 
 # 아마존 웹 서비스 부하 테스트 입문
-![모던 C++로 배우는 동시성 프로그래밍](http://image.kyobobook.co.kr/images/book/xlarge/385/x9791188621385.jpg)
+![아마존 웹 서비스 부하 테스트 입문](http://image.kyobobook.co.kr/images/book/xlarge/385/x9791188621385.jpg)
 
 
 **출판사** 제이펍  
